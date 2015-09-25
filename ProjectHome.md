@@ -1,0 +1,1 @@
+For more than a year now, I've been using a text-based code manager for the Wii, and since I started using it, I've wanted a GUI version.  Since I can't get the source for any of the ones that are out there (there are two that I know of), I decided to make one myself, from scratch.  This is that attempt.  Will be powered by libwiigui by Tantric.
